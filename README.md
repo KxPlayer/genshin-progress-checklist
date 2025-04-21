@@ -1,0 +1,1 @@
+# genshin-progress-checklist
